@@ -36,6 +36,7 @@ This checklist is for all Merge Requests (MRs) related to API automation changes
 
 ### Error Handling:
 
+
 * [ ] Are error responses validated (status codes, error messages, error schemas)?
 * [ ] Are specific error scenarios tested (e.g., invalid input, missing data, server errors)?
 
